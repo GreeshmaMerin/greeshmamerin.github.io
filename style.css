@@ -1,0 +1,18 @@
+body{
+  color:red
+}
+header{
+  color:blue
+}
+section{
+  color:green
+}
+footer{color:yellow}
+
+header>p{
+  color:green
+}
+p.itallic{
+  color:green;
+  font-style:"Times"
+}
